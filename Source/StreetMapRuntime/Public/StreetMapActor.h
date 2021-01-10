@@ -11,7 +11,7 @@ class STREETMAPRUNTIME_API AStreetMapActor : public AActor
 	GENERATED_UCLASS_BODY()
 
 	/**  Component that represents a section of street map roads and buildings */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "StreetMap")
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "StreetMap")
 		class UStreetMapComponent* StreetMapComponent;
 
 public: 
