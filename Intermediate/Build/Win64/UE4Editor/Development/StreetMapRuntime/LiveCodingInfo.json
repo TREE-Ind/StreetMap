@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StreetMapRuntime.cpp.obj": [
+			"PolygonTools.cpp.obj",
+			"StreetMap.cpp.obj",
+			"StreetMapActor.cpp.obj",
+			"StreetMapComponent.cpp.obj",
+			"StreetMapRuntime.cpp.obj",
+			"StreetMapSceneProxy.cpp.obj"
+		],
+		"Module.StreetMapRuntime.gen.cpp.obj": [
+			"StreetMap.gen.cpp.obj",
+			"StreetMapActor.gen.cpp.obj",
+			"StreetMapComponent.gen.cpp.obj",
+			"StreetMapRuntime.init.gen.cpp.obj",
+			"StreetMapSceneProxy.gen.cpp.obj"
+		]
+	}
+}

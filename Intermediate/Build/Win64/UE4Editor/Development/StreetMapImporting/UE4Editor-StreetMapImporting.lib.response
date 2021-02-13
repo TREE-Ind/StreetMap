@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StreetMapImporting.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\StreetMap425\Intermediate\Build\Win64\StreetMap425Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\UnrealProjects\StreetMap425\Plugins\Streetmap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapImporting\Module.StreetMapImporting.cpp.obj"
+"D:\UnrealProjects\StreetMap425\Plugins\Streetmap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapImporting\Module.StreetMapImporting.gen.cpp.obj"
+"D:\UnrealProjects\StreetMap425\Plugins\Streetmap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapImporting\Default.rc2.res"
+/OUT:"D:\UnrealProjects\StreetMap425\Plugins\Streetmap\Intermediate\Build\Win64\UE4Editor\Development\StreetMapImporting\UE4Editor-StreetMapImporting.lib"
+/INCLUDE:IMPLEMENT_MODULE_StreetMapImporting

@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StreetMapImporting.cpp.obj": [
+			"OSMFile.cpp.obj",
+			"StreetMapActorFactory.cpp.obj",
+			"StreetMapAssetTypeActions.cpp.obj",
+			"StreetMapComponentDetails.cpp.obj",
+			"StreetMapFactory.cpp.obj",
+			"StreetMapImporting.cpp.obj",
+			"StreetMapReimportFactory.cpp.obj",
+			"StreetMapStyle.cpp.obj"
+		],
+		"Module.StreetMapImporting.gen.cpp.obj": [
+			"StreetMapActorFactory.gen.cpp.obj",
+			"StreetMapFactory.gen.cpp.obj",
+			"StreetMapImporting.init.gen.cpp.obj",
+			"StreetMapReimportFactory.gen.cpp.obj"
+		]
+	}
+}
